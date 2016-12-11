@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.exe.config
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.exe
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.exe
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.MainForm.resources
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\bin\Debug\KiK.exe.config
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\bin\Debug\KiK.exe
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\bin\Debug\KiK.pdb
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\obj\Debug\KiK.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\obj\Debug\KiK.MainForm.resources
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\obj\Debug\KiK.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\obj\Debug\KiK.exe
+C:\Users\User\Desktop\Nowy folder (2)\KiK\KiK\obj\Debug\KiK.pdb
