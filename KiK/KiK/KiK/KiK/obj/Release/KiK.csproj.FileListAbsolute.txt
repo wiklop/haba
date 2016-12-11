@@ -1,8 +1,0 @@
-C:\Users\User\Desktop\KiK V2\KiK\KiK\bin\Release\KiK.exe.config
-C:\Users\User\Desktop\KiK V2\KiK\KiK\bin\Release\KiK.exe
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.Form1.resources
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.MainForm.resources
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.Resource.resources
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.csproj.GenerateResource.Cache
-C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Release\KiK.exe
