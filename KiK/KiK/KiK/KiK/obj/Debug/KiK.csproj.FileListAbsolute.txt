@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.exe.config
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.exe
+C:\Users\User\Desktop\KiK\KiK\bin\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.exe
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.MainForm.resources
+C:\Users\User\Desktop\KiK\KiK\obj\Debug\KiK.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KiK V2\KiK\KiK\bin\Debug\KiK.exe.config
+C:\Users\User\Desktop\KiK V2\KiK\KiK\bin\Debug\KiK.exe
+C:\Users\User\Desktop\KiK V2\KiK\KiK\bin\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.MainForm.resources
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.exe
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.pdb
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.Form1.resources
+C:\Users\User\Desktop\KiK V2\KiK\KiK\obj\Debug\KiK.Resource.resources
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\bin\Debug\KiK.exe.config
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\bin\Debug\KiK.exe
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\bin\Debug\KiK.pdb
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.Form1.resources
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.MainForm.resources
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.Resource.resources
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.exe
+C:\Users\user\Desktop\KiK-Skonczone\KiK\KiK\obj\Debug\KiK.pdb
